@@ -1,6 +1,7 @@
 git init
 git remote add origin https://github.com/Pieguy1236/MinecraftCCUworld
-git add ./world
+git add .
+git branch -m main
 git commit -m "initial commit"
-git push origin master
+git push origin main
 pause
