@@ -1,0 +1,20 @@
+{
+	id: "2d6faceb-c9f8-4290-876e-e54595c76a43"
+	type: "player"
+	player_name: "MrPancake5"
+	ranks: {
+		2d6faceb-c9f8-4290-876e-e54595c76a43: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "MrPancake5"
+		"ftbteams:color": "#B959FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

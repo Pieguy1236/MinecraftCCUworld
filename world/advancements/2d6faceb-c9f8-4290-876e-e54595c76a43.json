@@ -1,0 +1,213 @@
+{
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2025-05-05 22:20:55 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-05 22:20:56 -0400"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-05-05 22:20:55 -0400"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/glowstone_slab": {
+    "criteria": {
+      "has_wood": "2025-05-05 22:20:56 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2025-05-05 22:20:56 -0400"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/gold_stuff": {
+    "criteria": {
+      "has_wood": "2025-05-05 22:20:56 -0400"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-05-05 22:20:55 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-05-05 22:20:55 -0400"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-05 22:20:55 -0400"
+    },
+    "done": true
+  },
+  "obscure_api:recipes/obscure_book": {
+    "criteria": {
+      "has_item": "2025-05-05 22:20:56 -0400"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2025-05-05 22:20:55 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-05-05 22:20:55 -0400"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lava_lamp": {
+    "criteria": {
+      "has_planks": "2025-05-05 22:20:55 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2025-05-05 22:20:56 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-05-05 22:20:56 -0400"
+    },
+    "done": true
+  },
+  "chaosawakens:root/root": {
+    "criteria": {
+      "root": "2025-05-05 22:20:56 -0400"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/sea_lantern_slab": {
+    "criteria": {
+      "has_wood": "2025-05-05 22:20:56 -0400"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/torches": {
+    "criteria": {
+      "has_wood": "2025-05-05 22:20:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-05-05 22:20:56 -0400"
+    },
+    "done": false
+  },
+  "mcwlights:recipes/iron_stuff": {
+    "criteria": {
+      "has_wood": "2025-05-05 22:20:55 -0400"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/garden_light": {
+    "criteria": {
+      "has_planks": "2025-05-05 22:20:56 -0400"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/shroomlight_slab": {
+    "criteria": {
+      "has_wood": "2025-05-05 22:20:55 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-05-05 22:20:56 -0400"
+    },
+    "done": true
+  },
+  "idas:bearclaw_inn": {
+    "criteria": {
+      "in_bearclaw_inn": "2025-05-05 22:20:56 -0400"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-05-05 22:20:56 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-05-05 22:20:55 -0400"
+    },
+    "done": true
+  },
+  "levinide:levinide_start": {
+    "criteria": {
+      "levinide_start": "2025-05-05 22:20:55 -0400"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2025-05-05 22:20:55 -0400"
+    },
+    "done": true
+  },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2025-05-05 22:20:55 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-05 22:20:56 -0400"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/redstone_slab": {
+    "criteria": {
+      "has_wood": "2025-05-05 22:20:56 -0400"
+    },
+    "done": true
+  },
+  "inventorypets:root": {
+    "criteria": {
+      "auto": "2025-05-05 22:20:56 -0400"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-05-05 22:20:56 -0400"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-05 22:20:55 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-05-05 22:20:55 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

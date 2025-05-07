@@ -1,0 +1,210 @@
+
+["Tools/Armor"]
+
+	["Tools/Armor"."Misc Weapons/Tools"]
+		#Range: > 0
+		"Damage of the Basilisk Sword" = 25
+		#Range: > 0
+		"Damage of the Fairy Sword" = 10
+		#Range: > 0
+		"Damage of the Big Hammer" = 15
+		#Range: > 0
+		"Damage of the Rat Sword" = 10
+		#Range: > 0
+		"Damage of the Nightmare Sword" = 30
+		#Range: > 0
+		"Damage of the Experience Sword" = 10
+		#Range: > 0
+		"Damage of the Poison Sword" = 10
+		#Range: > 0
+		"Damage of the Prismatic Reaper" = 29
+		#Range: > 0
+		"Damage of the Mantis Claw" = 10
+
+	["Tools/Armor"."Kyanite Weapons/Tools"]
+		#Range: > 0
+		"Damage of the Kyanite Shovel" = 4
+		#Range: > 0
+		"Damage of the Kyanite Axe" = 9
+		#Range: > 0
+		"Damage of the Kyanite Hoe" = 1
+		#Range: > 0
+		"Damage of the Kyanite Sword" = 6
+		#Range: > 0
+		"Damage of the Kyanite Pickaxe" = 4
+
+	["Tools/Armor"."Silver Weapons/Tools"]
+		#Range: > 0
+		"Damage of the Silver Sword" = 6
+		#Range: > 0
+		"Damage of the Silver Shovel" = 5
+		#Range: > 0
+		"Damage of the Silver Axe" = 9
+		#Range: > 0
+		"Damage of the Silver Hoe" = 1
+		#Range: > 0
+		"Damage of the Silver Pickaxe" = 4
+
+	["Tools/Armor"."Tin Weapons/Tools"]
+		#Range: > 0
+		"Damage of the Tin Sword" = 6
+		#Range: > 0
+		"Damage of the Tin Pickaxe" = 4
+		#Range: > 0
+		"Damage of the Tin Shovel" = 4
+		#Range: > 0
+		"Damage of the Tin Axe" = 9
+		#Range: > 0
+		"Damage of the Tin Hoe" = 1
+
+	["Tools/Armor"."Cat's Eye Weapons/Tools"]
+		#Range: > 0
+		"Damage of the Cat's Eye Shovel" = 11
+		#Range: > 0
+		"Damage of the Cat's Eye Pickaxe" = 10
+		#Range: > 0
+		"Damage of the Cat's Eye Sword" = 12
+		#Range: > 0
+		"Damage of the Cat's Eye Axe" = 14
+		#Range: > 0
+		"Damage of the Cat's Eye Hoe" = 1
+
+	["Tools/Armor"."Emerald Weapons/Tools"]
+		#Range: > 0
+		"Damage of the Emerald Sword" = 6
+		#Range: > 0
+		"Damage of the Emerald Pickaxe" = 4
+		#Range: > 0
+		"Damage of the Emerald Shovel" = 5
+		#Range: > 0
+		"Damage of the Emerald Axe" = 9
+		#Range: > 0
+		"Damage of the Emerald Hoe" = 1
+
+	["Tools/Armor"."Big Weapons/Tools"]
+		#Range: > 0
+		"Damage of the Queen Scale Battle Axe" = 666
+		#Range: > 0
+		"Damage of the Attitude Adjuster" = 65
+		#Range: > 0
+		"Damage of the Battle Axe" = 84
+		#Range: > 0
+		"Damage of the Slayer Chainsaw" = 65
+		#Range: > 0
+		"Damage of the Big Bertha" = 500
+		#Range: > 0
+		"Damage of the Royal Guardian Sword" = 750
+
+	["Tools/Armor"."Crystalwood Weapons/Tools"]
+		#Range: > 0
+		"Damage of the Crystalwood Sword" = 5
+		#Range: > 0
+		"Damage of the Crystalwood Shovel" = 3
+		#Range: > 0
+		"Damage of the Crystalwood Axe" = 9
+		#Range: > 0
+		"Damage of the Crystalwood Hoe" = 1
+		#Range: > 0
+		"Damage of the Crystalwood Pickaxe" = 3
+
+	["Tools/Armor"."Platinum Weapons/Tools"]
+		#Range: > 0
+		"Damage of the Platinum Pickaxe" = 8
+		#Range: > 0
+		"Damage of the Platinum Axe" = 12
+		#Range: > 0
+		"Damage of the Platinum Shovel" = 9
+		#Range: > 0
+		"Damage of the Platinum Hoe" = 1
+		#Range: > 0
+		"Damage of the Platinum Sword" = 10
+
+	["Tools/Armor"."Tiger's Eye Weapons/Tools"]
+		#Range: > 0
+		"Damage of the Tiger's Eye Pickaxe" = 10
+		#Range: > 0
+		"Damage of the Tiger's Eye Shovel" = 11
+		#Range: > 0
+		"Damage of the Tiger's Eye Sword" = 12
+		#Range: > 0
+		"Damage of the Tiger's Eye Axe" = 14
+		#Range: > 0
+		"Damage of the Tiger's Eye Hoe" = 1
+
+	["Tools/Armor"."Amethyst Weapons/Tools"]
+		#Range: > 0
+		"Damage of the Amethyst Shovel" = 14
+		#Range: > 0
+		"Damage of the Amethyst Hoe" = 1
+		#Range: > 0
+		"Damage of the Amethyst Sword" = 15
+		#Range: > 0
+		"Damage of the Amethyst Axe" = 17
+		#Range: > 0
+		"Damage of the Amethyst Pickaxe" = 13
+
+	["Tools/Armor"."Ruby Weapons/Tools"]
+		#Range: > 0
+		"Damage of the Ruby Sword" = 20
+		#Range: > 0
+		"Damage of the Ruby Shovel" = 19
+		#Range: > 0
+		"Damage of the Ruby Axe" = 22
+		#Range: > 0
+		"Damage of the Ruby Pickaxe" = 18
+		#Range: > 0
+		"Damage of the Ruby Hoe" = 1
+
+	["Tools/Armor"."Pink Tourmaline Weapons/Tools"]
+		#Range: > 0
+		"Damage of the Pink Tourmaline Axe" = 13
+		#Range: > 0
+		"Damage of the Pink Tourmaline Shovel" = 10
+		#Range: > 0
+		"Damage of the Pink Tourmaline Hoe" = 1
+		#Range: > 0
+		"Damage of the Pink Tourmaline Pickaxe" = 9
+		#Range: > 0
+		"Damage of the Pink Tourmaline Sword" = 11
+
+	["Tools/Armor"."Copper Weapons/Tools"]
+		#Range: > 0
+		"Damage of the Copper Pickaxe" = 3
+		#Range: > 0
+		"Damage of the Copper Axe" = 9
+		#Range: > 0
+		"Damage of the Copper Hoe" = 1
+		#Range: > 0
+		"Damage of the Copper Shovel" = 4
+		#Range: > 0
+		"Damage of the Copper Sword" = 5
+
+	["Tools/Armor"."Ultimate Weapons/Tools"]
+		#Range: > 0
+		"Damage of the Ultimate Axe" = 42
+		#Range: > 0
+		"Damage of the Ultimate Hoe" = 1
+		#Range: 0.0 ~ 2.147483647E9
+		"Damage Multiplier of the Ultimate Crossbow's Power Enchantment" = 1.0
+		#Range: > 0
+		"Damage of the Ultimate Pickaxe" = 38
+		#Range: 0.0 ~ 2.147483647E9
+		"Damage Multiplier of the Ultimate Bow's Power Enchantment" = 0.5
+		#Range: > 0
+		"Damage of the Ultimate Sword" = 40
+		#Range: 0.0 ~ 2.147483647E9
+		"Added Power Damage of the Ultimate Crossbow Bolts" = 18.0
+		#Range: > 0
+		"Damage of the Ultimate Shovel" = 39
+		#How much damage the Ultimate bow will add up to the base arrow damage
+		#Range: 0.0 ~ 2.147483647E9
+		"Additional Damage of the Ultimate Bow Arrows" = 5.0
+
+["Server Management/Logging"]
+	#Debug CA events on the server while it's running.
+	"Debug logging" = true
+	#If set to true, dedicated servers will not throw an exception (crash) if there's a mismatch between metadata (animation length, name, loop type). Tinker at your own risk! (Only applies to dedicated servers).
+	"Lenient Asset Enforcement" = true
+	#Allow Chaos Awakens to manipulate server settings such as enabling flight.
+	"Chaos Awakens has OP server permissions" = true
+

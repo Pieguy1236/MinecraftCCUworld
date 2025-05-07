@@ -1,0 +1,7 @@
+
+[Server]
+	#Set Starting Amount for Player to Start with (ALLOW STARTING HEALTH TWEAKS NEEDS TO BE TRUE)
+	startingHealth = 20
+	#Allow Player to Use Starting Tweaks
+	allowStartingHealthTweaks = false
+

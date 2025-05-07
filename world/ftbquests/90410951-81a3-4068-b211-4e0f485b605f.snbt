@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "9041095181a34068b2114e0f485b605f"
+	name: "pieguy1236"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
