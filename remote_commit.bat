@@ -1,7 +1,7 @@
 git init
 git remote add origin https://github.com/Pieguy1236/MinecraftCCUworld
 git add .
-git branch -m test
+git branch -m JC_branch
 git commit -m "updating data"
-git push origin -f test
+git push origin -f JC_branch
 pause
