@@ -8951,6 +8951,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-05-10 04:18:26 -0400"
+    },
+    "done": true
+  },
   "chaosawakens:recipes/misc/purple_dye_from_paeonia": {
     "criteria": {
       "has_the_recipe": "2025-05-10 03:14:58 -0400"
@@ -46593,6 +46599,7 @@
     "criteria": {
       "minecraft:river": "2025-05-10 03:31:54 -0400",
       "minecraft:desert": "2025-05-10 03:31:55 -0400",
+      "minecraft:savanna": "2025-05-10 04:19:03 -0400",
       "minecraft:plains": "2025-05-05 22:19:42 -0400"
     },
     "done": false
