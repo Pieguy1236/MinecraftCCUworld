@@ -28499,6 +28499,12 @@
     },
     "done": true
   },
+  "desert_upgrade:desert_upgrade_a": {
+    "criteria": {
+      "desert_upgrade_a": "2025-05-10 03:31:55 -0400"
+    },
+    "done": true
+  },
   "chaosawakens:recipes/chaosawakens.blocks/mossy_limestone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-05-10 03:15:00 -0400"
@@ -46585,6 +46591,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-05-10 03:31:54 -0400",
+      "minecraft:desert": "2025-05-10 03:31:55 -0400",
       "minecraft:plains": "2025-05-05 22:19:42 -0400"
     },
     "done": false
