@@ -1,2 +1,2 @@
-java -Xmx8192M -Xms8192M -jar forge.jar nogui
+java -Xmx32G -Xms32G -jar forge.jar nogui
 pause
